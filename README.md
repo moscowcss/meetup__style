@@ -2,10 +2,12 @@
 
 ## Логотип
 
-- Открывающий [open.svg](logo/open.svg)
-- Закрывающий [close.svg](logo/close.svg)
-- Исходник [logo.ai](logo/logo.ai)
-- Наклейки [stickers.ai](logo/logo.ai) (CMYK)
+- Открывающий SVG [open.svg](logo/open.svg)
+- Закрывающий SVG [close.svg](logo/close.svg)
+- Открывающий PNG [open.png](logo/open.png)
+- Закрывающий PNG [close.png](logo/close.png)
+- Исходник [logo.sketch](logo/logo.sketch)
+- Наклейки [stickers.ai](logo/stickers-p.ai) (CMYK)
 
 ## События
 
